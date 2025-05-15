@@ -2,7 +2,7 @@
 ## 📫 Contact Me
 
 - 📧 Email: shubhamrathod1619@gmail.com 
-- 💼 [LinkedIn]([https://www.linkedin.com/](https://www.linkedin.com/in/shubham-rathod-821a01202/)) 
+- 💼 [LinkedIn] (https://www.linkedin.com/in/shubham-rathod-821a01202/)) 
 
 
 
