@@ -1,16 +1,51 @@
-## Hi there 👋
+Hi, I'm Shubham 👋
 
-<!--
-**Rathod-shubhamm/Rathod-shubhamm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 About Me
 
-Here are some ideas to get you started:
+🎓 CSE Student at VIT Bhopal  University
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💡 Interested in AI and Open Source
+
+🌱 Currently learning LLMs 
+
+
+
+🛠️ Tech Stack
+
+Languages:  Python, Java, R, JavaScript  
+
+Web:  React.js, FastAPI, HTML/CSS  
+
+Tools & Frameworks: TensorFlow, OpenCV, Postman, Scilab,  Android Studio  
+
+Cloud & Data: AWS, Google Cloud, SQLite, Pandas, NumPy  
+
+Others:Git, GitHub, API Integration, Image Processing
+
+🧰 Top Repositories
+
+Featured Projects
+
+Potato Leaf Disease Classifier
+
+  > React + FastAPI app for identifying potato diseases from leaf images using a CNN model
+
+
+
+
+
+- 🧾 **Hospital Management System (Android)**  
+
+  > Role-based login system for admins, doctors, and patients with detailed reporting features
+
+
+
+- 🧑‍💻 **Data Analysis for Social Impact**  
+
+  > Analyzed rural household data to identify 4000 families for gas stove distribution📫 Let's Connect
+
+
+-   Suchna – Missing Person Tracker**
+  > A web app to report and track missing persons, integrating citizen reports with police verification and case status updates
+
+  
