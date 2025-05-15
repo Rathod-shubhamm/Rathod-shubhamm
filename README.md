@@ -2,12 +2,12 @@
 
 
 
-<h1 align="center">🔥 SHUBHAM RATHOD</h1>
+<h1 align="center">Hi, I'm Shubham 👋</h1>
 
 
-#Hi, I'm Shubham 👋
 
-##🚀 About Me
+
+## 🚀 About Me
 
 🎓 CSE Student at VIT Bhopal  University
 
