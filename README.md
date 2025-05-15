@@ -1,9 +1,12 @@
-![AWS Solutions Architect](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws)
+
+## 📫 Contact Me
+
+- 📧 Email: shubhamrathod.official@gmail.com *(placeholder – change if needed)*  
+- 💼 [LinkedIn](https://www.linkedin.com/) *(Add your actual profile link)*  
 
 
 
 <h1 align="center">Hi, I'm Shubham 👋</h1>
-
 
 
 
