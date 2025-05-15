@@ -2,9 +2,9 @@
 
 
 
-Hi, I'm Shubham 👋
+#Hi, I'm Shubham 👋
 
-🚀 About Me
+##🚀 About Me
 
 🎓 CSE Student at VIT Bhopal  University
 
