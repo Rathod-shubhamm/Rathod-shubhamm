@@ -1,8 +1,8 @@
 
 ## 📫 Contact Me
 
-- 📧 Email: shubhamrathod.official@gmail.com *(placeholder – change if needed)*  
-- 💼 [LinkedIn](https://www.linkedin.com/) *(Add your actual profile link)*  
+- 📧 Email: shubhamrathod1619@gmail.com 
+- 💼 [LinkedIn]([https://www.linkedin.com/](https://www.linkedin.com/in/shubham-rathod-821a01202/)) 
 
 
 
@@ -41,13 +41,9 @@ Potato Leaf Disease Classifier
   > React + FastAPI app for identifying potato diseases from leaf images using a CNN model
 
 
-
-
-
 - 🧾 **Hospital Management System (Android)**  
 
   > Role-based login system for admins, doctors, and patients with detailed reporting features
-
 
 
 - 🧑‍💻 **Data Analysis for Social Impact**  
