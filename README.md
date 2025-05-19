@@ -36,9 +36,18 @@ Others:Git, GitHub, API Integration, Image Processing
 
 Featured Projects
 
-Potato Leaf Disease Classifier
+- Real-time memecoin tweet tracker
+     > Notifies crypto traders about tweet from celebrities containing keywords of memecoin,crypto coin names.
+
+-Potato Leaf Disease Classifier
 
   > React + FastAPI app for identifying potato diseases from leaf images using a CNN model
+
+
+
+-   Suchna – Missing Person Tracker**
+  > A web app to report and track missing persons, integrating citizen reports with police verification and case status updates
+
 
 
 - 🧾 **Hospital Management System (Android)**  
@@ -51,7 +60,5 @@ Potato Leaf Disease Classifier
   > Analyzed rural household data to identify 4000 families for gas stove distribution📫 Let's Connect
 
 
--   Suchna – Missing Person Tracker**
-  > A web app to report and track missing persons, integrating citizen reports with police verification and case status updates
 
   
